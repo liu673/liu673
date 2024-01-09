@@ -1,5 +1,5 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=liu673"  />
-<h1 align="center">Hi, <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Jensen.</h1>
+<h1 align="center">Hi <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Jensen.</h1>
 
 <h1 align="center">
     <a href="https://twitter.com/Sec_LQS"><img align="center" alt="Jensen's Twitter" width="4%" src="https://github.com/liu673/liu673/assets/65761509/7728f46a-9e93-4f4f-8802-72cce192c489" /></a>
