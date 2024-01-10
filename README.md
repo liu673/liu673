@@ -38,9 +38,14 @@
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
     <br />
+    <img align="right" width="400px"  src="https://github-readme-stats.vercel.app/api?username=liu673&show_icons=true&show_owner=Jensen&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+    <br />
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg"></code>
-    <img align="right" width="400px"  src="https://github-readme-stats.vercel.app/api?username=liu673&show_icons=true&show_owner=Jensen&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+    <br />
+    <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/></code>
+    <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/></code>
+    <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/></code>
 </p>
 
