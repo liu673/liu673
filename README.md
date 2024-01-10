@@ -21,7 +21,8 @@
 
 
 <h1>Languages and Tools:</h1>
-<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu673&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"">
+<p>
+    <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu673&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"">
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
@@ -41,3 +42,5 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg"></code>
+</p>
+
